@@ -1,0 +1,16 @@
+{
+  "name": "calcular-valor-pedido",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "calcular-valor-pedido.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll *.js"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
